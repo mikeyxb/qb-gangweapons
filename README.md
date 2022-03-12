@@ -16,3 +16,5 @@ To change the location look in the client/cl_eye.lua to change it there also thi
 Credits to Lionh34rt#4305 for letting me use some snippets of his for this.
 
 This is my first script i will support what i can but im not very experienced yet
+
+Made by Mikeyxb#2012
